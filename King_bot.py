@@ -2,7 +2,7 @@ import random
 
 import telebot
 
-bot = telebot.TeleBot('5916695933:AAE7m3TWJEXTt02unuu4wI0Rxj3011L_ifo')
+bot = telebot.TeleBot('ВСТАВИТЬ СВОЙ ТОКЕН')
 
 from telebot import types
 
